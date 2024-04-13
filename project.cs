@@ -11,7 +11,8 @@ namespace Lab1
         {
             int i = 22;
             int burger = 1984;
-            string words = "ответ = "
+            string words = "ответ = ";
+            Console.WriteLine(words);
         }
     }
     
