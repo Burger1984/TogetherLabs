@@ -9,7 +9,8 @@ namespace Lab1
     {
         static void Main(string[] args)
         {
-            int i = 22
+            int i = 22;
+            int burger = 1984;
         }
     }
 }
