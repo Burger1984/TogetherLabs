@@ -14,6 +14,7 @@ namespace Lab1
             int zakazz = i * burger;
             string words = "ответ = ";
             Console.WriteLine(words);
+            Console.WriteLine(zakazz);
         }
     }
     
